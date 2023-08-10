@@ -1,7 +1,7 @@
 # Advent JS Challenge 🎇✨🎁
-**24 días, 24 retos de programación**
-
 ¡Bienvenido al emocionante desafío Advent JS!
+
+**24 días, 24 retos de programación**
 
 ## ¿Qué es Advent JS?
 
