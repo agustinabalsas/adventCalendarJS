@@ -1,6 +1,6 @@
 # Advent JS
 
-## 24 días, 24 retos de programación
+**24 días, 24 retos de programación**
 
-### https://adventjs.dev/es
+*https://adventjs.dev/es*
 
