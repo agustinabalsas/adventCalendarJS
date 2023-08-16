@@ -2,7 +2,7 @@ function getMaxGifts(giftsCities, maxGifts, maxCities) {
 
   const combinations = giftsCities.reduce((a, v) => a.concat(a.map(d => [v].concat(d))), [[]])
 
-  const result = combinations.filter((combination) => combination.length <= maxCities)
+  const result = combinations.filter((c) => c.length <= maxCities)
 
   let toReturn = 0
 
