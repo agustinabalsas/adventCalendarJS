@@ -20,3 +20,5 @@ function getMaxGifts(giftsCities, maxGifts, maxCities) {
 
   return toReturn
 }
+
+module.exports = getMaxGifts;
