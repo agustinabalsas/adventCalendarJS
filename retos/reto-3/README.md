@@ -19,7 +19,7 @@ const reindeers = ["dasher", "dancer"]
 distributeGifts(packOfGifts, reindeers) // 2
 ```
 
-### Cosas a tener en cuenta:
+### A tener en cuenta:
 
 * Las cajas de regalos no se pueden dividir.
 * Los nombres de los regalos y los renos siempre serán mayores que 0.

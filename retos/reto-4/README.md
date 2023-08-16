@@ -46,7 +46,7 @@ fitsInOneBox(boxes) // true
 En el ejemplo anterior, la primer caja cabe en la tercera, y la tercera en la segunda. Por lo tanto, es posible empaquetar todas las cajas en una sola.
 
 
-### Cosas a tener en cuenta:
+### A tener en cuenta:
 
 * Las cajas no se pueden rotar ya que los elfos nos han dicho que la máquina no está preparada.
 * Las cajas pueden venir desordenadas de tamaño.
