@@ -1,6 +1,6 @@
 # Reto #6
 
-**Dificultad: ★★☆ (medio)**
+**Dificultad: ⭐⭐☆ (medio)**
 
 ## Instrucciones
 

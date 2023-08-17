@@ -1,6 +1,6 @@
 # Reto #5
 
-**Dificultad: ★★★ (difícil)**
+**Dificultad: ⭐⭐⭐ (difícil)**
 
 ## Instrucciones
 

@@ -1,6 +1,6 @@
 # Reto #2
 
-**Dificultad: ★☆☆ (fácil)**
+**Dificultad: ⭐☆☆ (fácil)**
 
 ## Instrucciones
 

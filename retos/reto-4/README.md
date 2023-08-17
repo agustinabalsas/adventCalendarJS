@@ -1,6 +1,6 @@
 # Reto #4
 
-**Dificultad: ★★☆ (medio)**
+**Dificultad: ⭐⭐☆ (medio)**
 
 ## Instrucciones
 
