@@ -1,4 +1,4 @@
-# Reto #4
+# Reto #6
 
 ## Instrucciones
 
