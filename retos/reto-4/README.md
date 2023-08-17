@@ -1,5 +1,7 @@
 # Reto #4
 
+**Dificultad: ★★☆ (medio)**
+
 ## Instrucciones
 
 Santa Claus necesita hacer una revisión de sus cajas de regalos para asegurarse de que puede empaquetarlas todas en su trineo. Cuenta con una serie de **cajas de diferentes tamaños, que se caracterizan por su longitud, anchura y altura.**

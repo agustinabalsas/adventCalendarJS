@@ -1,5 +1,7 @@
 # Reto #2
 
+**Dificultad: ★☆☆ (fácil)**
+
 ## Instrucciones
 
 Un millonario ha comprado una red social y no trae buenas noticias. Ha anunciado que **cada vez que una jornada de trabajo se pierde por un día festivo**, habrá que compensarlo con **dos horas extra otro día de ese mismo año**.

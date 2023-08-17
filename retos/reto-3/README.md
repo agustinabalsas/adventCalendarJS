@@ -1,5 +1,7 @@
 # Reto #3
 
+**Dificultad: ★☆☆ (fácil)**
+
 ## Instrucciones
 
 Tienes una caja de regalos de Navidad que Santa Claus quiere entregar a los niños. **Cada regalo está representado por una cadena.** Santa Claus tiene un trineo que puede llevar un **peso limitado**, y cada regalo dentro de la caja tiene un peso que es igual al número de letras en el nombre del regalo.

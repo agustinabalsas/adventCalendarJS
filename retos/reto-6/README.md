@@ -1,5 +1,7 @@
 # Reto #6
 
+**Dificultad: ★★☆ (medio)**
+
 ## Instrucciones
 
 Una pareja de entusiastas de la navidad ha creado una empresa de adornos navideños. El primer adorno que quieren fabricar es un cubo que se pone en los árboles.
