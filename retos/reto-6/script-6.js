@@ -27,4 +27,4 @@ function createCube(size) {
     return cube
 }
 
-module.exports = createCube;
+module.exports = createCube
