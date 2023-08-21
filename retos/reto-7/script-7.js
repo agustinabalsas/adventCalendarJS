@@ -1,5 +1,4 @@
 function getGiftsToRefill(a1, a2, a3) {
-
   let toRefill = []
 
   a1 = a1.filter((item, index) => a1.indexOf(item) === index)
