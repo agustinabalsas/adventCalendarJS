@@ -4,10 +4,10 @@ function countTime(leds) {
     while (leds.includes(0)) {
         let newLeds = Array.from(leds);
 
-        (leds[leds.length - 1] == 1 && leds[0] == 0) ? newLeds[0] = 1 : ""
+        newLeds[0] |= (leds[leds.length - 1] == 1 && leds[0] == 0) ? 1 : 0;
 
         for (let i = 1; i < leds.length; i++) {
-            (leds[i - 1] == 1 && leds[i] == 0) ? newLeds[i] = 1 : ""
+            newLeds[i] |= (leds[i - 1] == 1 && leds[i] == 0) ? 1 : 0
         }
         leds = newLeds;
         times += 7;
@@ -15,3 +15,5 @@ function countTime(leds) {
 
     return times;
 }
+
+module.exports = countTime;
