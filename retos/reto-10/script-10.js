@@ -21,4 +21,4 @@ function checkJump(heights) {
   return true;
 }
 
-console.log(checkJump([1]) )
+module.exports = checkJump;
